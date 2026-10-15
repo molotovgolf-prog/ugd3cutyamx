@@ -1,7 +1,7 @@
-Content-Type: multipart/related; boundary="===============5828519674653369437=="
+Content-Type: multipart/related; boundary="===============7727123995932275436=="
 MIME-Version: 1.0
 
---===============5828519674653369437==
+--===============7727123995932275436==
 Content-Type: text/html; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: quoted-printable
@@ -17,11 +17,9 @@ Content-Location: https://localhost/index.html
 <style>
 body{margin:0 auto;max-width:9in;padding:0 16px;background:#fff;word-wrap:b=
 reak-word}
-nav.top{position:sticky;top:0;background:#f4f4f4;border-bottom:1px solid #c=
-cc;padding:6px 10px;font:14px sans-serif;z-index:9}
-.sep{margin:48px 0 24px;border-top:4px double #444;text-align:center}
-.sep span{position:relative;top:-0.8em;background:#fff;padding:0 12px;font:=
-bold 18px sans-serif;color:#333}
+nav.toc{font:15px/1.5 Georgia,serif;margin:24px 0 40px;padding-bottom:24px;=
+border-bottom:1px solid #ccc} nav.toc h2{font:bold 22px sans-serif} nav.toc=
+ li{margin:2px 0}
 img{max-width:100%;height:auto}
 #s1 v\:*{behavior:url(#default#VML);}
 #s1 o\:*{behavior:url(#default#VML);}
@@ -2610,9 +2608,78 @@ g 1_1";
 	font-family:"Times New Roman",serif;}
 </style>
 </head><body>
-<nav class=3D"top"><a href=3D"#set1">Set 1</a> &middot; <a href=3D"#set2">S=
-et 2</a> &middot; <a href=3D"#set3">Set 3</a></nav>
-<div class=3D"sep" id=3D"set1"><span>Set 1</span></div>
+<nav class=3D"toc"><h2>Table of Cases</h2><ol><li><a href=3D"#c10">Alix v. =
+McKinsey &amp; Co.</a></li><li><a href=3D"#c57">Allstate Ins. Co. v. Lyons<=
+/a></li><li><a href=3D"#c51">Allstate Ins. Co. v. Rozenberg</a></li><li><a =
+href=3D"#c13">Allstate Ins. Co. v. Seigel</a></li><li><a href=3D"#c43">Ande=
+rson News, L.L.C. v. Am. Media, Inc.</a></li><li><a href=3D"#c4">Angermeir =
+v. Cohen</a></li><li><a href=3D"#c30">Anza v. Ideal Steel Supply Corp.</a><=
+/li><li><a href=3D"#c33">Ashcroft v. Iqbal</a></li><li><a href=3D"#c71">Att=
+estor Value Master Fund v. Republic of Arg.</a></li><li><a href=3D"#c7">Azr=
+ielli v. Cohen Law Offices</a></li><li><a href=3D"#c15">Baisch v. Gallina</=
+a></li><li><a href=3D"#c52">Balintulo v. Ford Motor Co.</a></li><li><a href=
+=3D"#c36">Bank of Am. Corp. v. City of Miami</a></li><li><a href=3D"#c59">B=
+ankers Trust Co. v. Rhoades</a></li><li><a href=3D"#c61">Bascu=C3=B1=C3=A1n=
+ v. Elsaca</a></li><li><a href=3D"#c34">Boyle v. United States</a></li><li>=
+<a href=3D"#c31">Bridge v. Phoenix Bond &amp; Indem. Co.</a></li><li><a hre=
+f=3D"#c28">Canyon County v. Syngenta Seeds, Inc.</a></li><li><a href=3D"#c3=
+2">Carlsbad Tech., Inc. v. HIF Bio, Inc.</a></li><li><a href=3D"#c12">Comme=
+r. Cleaning Servs. v. Colin Serv. Sys.</a></li><li><a href=3D"#c21">Corresp=
+ondent Servs. Corp. v. First Equities Corp.</a></li><li><a href=3D"#c49">Cu=
+rtis &amp; Assocs., P.C. v. Law Offices of David M. Bushman, Esq.</a></li><=
+li><a href=3D"#c67">D&#x27;Addario v. D&#x27;Addario</a></li><li><a href=3D=
+"#c50">DDR Constr. Servs. v. Siemens Indus.</a></li><li><a href=3D"#c77">De=
+n Hollander v. Flash Dancers Topless Club</a></li><li><a href=3D"#c39">DiFo=
+lco v. MSNBC Cable L.L.C.</a></li><li><a href=3D"#c55">DiVittorio v. Equidy=
+ne Extractive Indus.</a></li><li><a href=3D"#c47">DLJ Mortg. Capital, Inc. =
+v. Kontogiannis</a></li><li><a href=3D"#c68">Empire Merchs., LLC v. Reliabl=
+e Churchill LLLP</a></li><li><a href=3D"#c16">Eternity Global Master Fund L=
+td. v. Morgan Guar. Trust Co.</a></li><li><a href=3D"#c79">F5 Capital v. Pa=
+ppas</a></li><li><a href=3D"#c23">Faulkner v. Beer</a></li><li><a href=3D"#=
+c73">First Interregional Advisors Corp. v. Wolff</a></li><li><a href=3D"#c8=
+">Friedl v. City of New York</a></li><li><a href=3D"#c54">Goel v. Bunge, Lt=
+d.</a></li><li><a href=3D"#c27">Hartford Fire Ins. Co. v. Cal.</a></li><li>=
+<a href=3D"#c35">Hemi Group, LLC v. City of New York</a></li><li><a href=3D=
+"#c25">Holmes v. Sec. Investor Prot. Corp.</a></li><li><a href=3D"#c18">In =
+re Avandia Mktg.</a></li><li><a href=3D"#c20">Int&#x27;l Code Council, Inc.=
+ v. UpCodes Inc.</a></li><li><a href=3D"#c46">Kaiser Foundation Health Plan=
+, Inc. v. Pfizer, Inc. (In re Neurontin Mktg. &amp; Sales Practices Litig.)=
+</a></li><li><a href=3D"#c64">Kim v. Kimm</a></li><li><a href=3D"#c78">Kopc=
+hik v. Town of E. Fishkill</a></li><li><a href=3D"#c70">Kowalchuck v. Metro=
+. Transp. Auth.</a></li><li><a href=3D"#c69">Kuntz v. New York State Bd. of=
+ Elections</a></li><li><a href=3D"#c6">Laborers Local 17 Health &amp; Benef=
+it Fund v. Philip Morris, Inc.</a></li><li><a href=3D"#c14">Lerner v. Fleet=
+ Bank, N.A.</a></li><li><a href=3D"#c17">Lewis ex rel. American Express Co.=
+ v. Robinson (In re American Express Co. Shareholder Litig.)</a></li><li><a=
+ href=3D"#c74">Liberty Mut. Ins. Co. v. Rotches Pork Packers, Inc.</a></li>=
+<li><a href=3D"#c53">Loreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., =
+LLC</a></li><li><a href=3D"#c63">Mandala v. NTT Data, Inc.</a></li><li><a h=
+ref=3D"#c38">Med. Marijuana, Inc. v. Horn</a></li><li><a href=3D"#c1">Mills=
+ v. Polar Molecular Corp.</a></li><li><a href=3D"#c3">Monk v. Shanda Games =
+Ltd. (In re Shanda Games Ltd. Sec. Litig.)</a></li><li><a href=3D"#c56">Nic=
+osia v. Amazon.com, Inc.</a></li><li><a href=3D"#c9">Novak v. Kasaks</a></l=
+i><li><a href=3D"#c72">Painters &amp; Allied Trades Dist. Council 82 Health=
+ Care Fund v. Takeda Pharms. Co.</a></li><li><a href=3D"#c44">Panther Partn=
+ers Inc. v. Ikanos Communs., Inc.</a></li><li><a href=3D"#c60">Pasternack v=
+. Shrader</a></li><li><a href=3D"#c26">Reves v. Ernst &amp; Young</a></li><=
+li><a href=3D"#c66">Sacerdote v. New York Univ.</a></li><li><a href=3D"#c24=
+">Schmuck v. United States</a></li><li><a href=3D"#c11">Shields v. Citytrus=
+t Bancorp.</a></li><li><a href=3D"#c5">Sky Med. Supply Inc. v. SCS Support =
+Claims Servs.</a></li><li><a href=3D"#c29">Spool v. World Child Int&#x27;l =
+Adoption Agency</a></li><li><a href=3D"#c42">State Farm Mut. Auto. Ins. Co.=
+ v. Grafman</a></li><li><a href=3D"#c2">State Farm Mut. Auto. Ins. Co. v. T=
+ri-Borough NY Med. Prac. P.C.</a></li><li><a href=3D"#c76">Stochastic Decis=
+ions, Inc. v. DiDomenico</a></li><li><a href=3D"#c48">Sykes v. Mel Harris &=
+amp; Assocs., LLC</a></li><li><a href=3D"#c58">Trs. of the Upstate N.Y. Eng=
+&#x27;rs Pension Fund v. Ivy Asset Mgmt.</a></li><li><a href=3D"#c41">Under=
+wood v. Coinbase Global, Inc.</a></li><li><a href=3D"#c37">Unigard Sec. Ins=
+. Co. v. North River Ins. Co.</a></li><li><a href=3D"#c40">United States v.=
+ Applins</a></li><li><a href=3D"#c62">United States v. Bortnovsky</a></li><=
+li><a href=3D"#c75">United States v. Eisen</a></li><li><a href=3D"#c45">Uni=
+ted States v. Mazzei</a></li><li><a href=3D"#c22">United States v. Turkette=
+</a></li><li><a href=3D"#c65">Williams v. Affinion Grp., LLC</a></li><li><a=
+ href=3D"#c19">World Wrestling Entm&#x27;t, Inc. v. Jakks Pac., Inc.</a></l=
+i></ol></nav>
 <div id=3D"s1" class=3D"set">
 
 
@@ -2627,7 +2694,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection2>
 
-<p class=3DNormal0><a
+<a id=3D"c1"></a><p class=3DNormal0><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F591-=
 2NSF-C1TT-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -4270,7 +4337,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection4>
 
-<p class=3DNormal1><a
+<a id=3D"c2"></a><p class=3DNormal1><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:6D87-70N3-=
 RRJ1-N2ND-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -9910,7 +9977,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection6>
 
-<p class=3DNormal2><a
+<a id=3D"c3"></a><p class=3DNormal2><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:6F22-W5W3-=
 RRMP-20N1-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -17436,7 +17503,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection8>
 
-<p class=3DNormal3><a
+<a id=3D"c4"></a><p class=3DNormal3><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5BV7-M861-=
 DXC8-71W1-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -22753,7 +22820,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection10>
 
-<p class=3DNormal4><a
+<a id=3D"c5"></a><p class=3DNormal4><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5X6S-KKX1-=
 DXC8-71R3-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -28653,7 +28720,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection12>
 
-<p class=3DNormal5><a
+<a id=3D"c6"></a><p class=3DNormal5><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-D421-=
 2NSD-R0JG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -31667,7 +31734,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection14>
 
-<p class=3DNormal6><a
+<a id=3D"c7"></a><p class=3DNormal6><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-0281-=
 2NSF-C4RK-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -33859,7 +33926,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection16>
 
-<p class=3DNormal7><a
+<a id=3D"c8"></a><p class=3DNormal7><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-0C01-=
 2NSF-C0PS-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -35732,7 +35799,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection18>
 
-<p class=3DNormal8><a
+<a id=3D"c9"></a><p class=3DNormal8><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F591-=
 2NSF-C052-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -39077,7 +39144,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection20>
 
-<p class=3DNormal9><a
+<a id=3D"c10"></a><p class=3DNormal9><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:67X7-CNV3-=
 CGX8-03RD-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -41381,7 +41448,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection22>
 
-<p class=3DNormal10><a
+<a id=3D"c11"></a><p class=3DNormal10><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F5C1-=
 2NSF-C2S6-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -43431,7 +43498,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection24>
 
-<p class=3DNormal11><a
+<a id=3D"c12"></a><p class=3DNormal11><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW7-DBX1-=
 2NSF-C1DF-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -45603,7 +45670,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection26>
 
-<p class=3DNormal12><a
+<a id=3D"c13"></a><p class=3DNormal12><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWR-0G91-=
 2NSD-K2P9-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -49467,7 +49534,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection28>
 
-<p class=3DNormal13><a
+<a id=3D"c14"></a><p class=3DNormal13><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-88S1-=
 2NSD-R48C-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -52342,7 +52409,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection30>
 
-<p class=3DNormal14><a
+<a id=3D"c15"></a><p class=3DNormal14><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWP-3851-=
 2NSD-M2TG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -54466,7 +54533,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection32>
 
-<p class=3DNormal15><a
+<a id=3D"c16"></a><p class=3DNormal15><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-0BW1-=
 2NSF-C37F-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -58314,7 +58381,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection34>
 
-<p class=3DNormal16><a
+<a id=3D"c17"></a><p class=3DNormal16><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-83F1-=
 2NSD-P2CW-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -60128,7 +60195,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection36>
 
-<p class=3DNormal17><a
+<a id=3D"c18"></a><p class=3DNormal17><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5H6T-15W1-=
 DXC7-H0P6-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -62233,7 +62300,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection38>
 
-<p class=3DNormal18><a
+<a id=3D"c19"></a><p class=3DNormal18><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4T1-=
 2NSF-C01N-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -70429,7 +70496,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection40>
 
-<p class=3DNormal19><a
+<a id=3D"c20"></a><p class=3DNormal19><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:67XV-81G3-=
 GXF6-839N-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -73358,7 +73425,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection42>
 
-<p class=3DNormal20><a
+<a id=3D"c21"></a><p class=3DNormal20><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWX-8T51-=
 2NSD-M139-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -74040,7 +74107,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection44>
 
-<p class=3DNormal21><a
+<a id=3D"c22"></a><p class=3DNormal21><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F581-=
 2NSF-C25R-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -75905,7 +75972,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection46>
 
-<p class=3DNormal22><a
+<a id=3D"c23"></a><p class=3DNormal22><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWP-6Y61-=
 2NSD-K1SV-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -76799,7 +76866,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection48>
 
-<p class=3DNormal23><a
+<a id=3D"c24"></a><p class=3DNormal23><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4K1-=
 2NSF-C41H-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -80065,7 +80132,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection50>
 
-<p class=3DNormal24><a
+<a id=3D"c25"></a><p class=3DNormal24><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4S1-=
 2NSF-C09G-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -84566,7 +84633,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection52>
 
-<p class=3DNormal25><a
+<a id=3D"c26"></a><p class=3DNormal25><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4K1-=
 2NSF-C182-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -87515,7 +87582,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection54>
 
-<p class=3DNormal26><a
+<a id=3D"c27"></a><p class=3DNormal26><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4K1-=
 2NSF-C2C9-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -94081,7 +94148,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection56>
 
-<p class=3DNormal27><a
+<a id=3D"c28"></a><p class=3DNormal27><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWS-5MF1-=
 2NSD-K3H5-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -96827,7 +96894,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection58>
 
-<p class=3DNormal28><a
+<a id=3D"c29"></a><p class=3DNormal28><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWR-3DK1-=
 2NSD-P44T-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -98600,7 +98667,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection60>
 
-<p class=3DNormal29><a
+<a id=3D"c30"></a><p class=3DNormal29><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-03D1-=
 2NSF-C1FK-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -104350,7 +104417,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection62>
 
-<p class=3DNormal30><a
+<a id=3D"c31"></a><p class=3DNormal30><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-88S1-=
 2NSD-R3GS-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -107747,7 +107814,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection64>
 
-<p class=3DNormal31><a
+<a id=3D"c32"></a><p class=3DNormal31><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWS-0N31-=
 2NSD-M46W-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -110389,7 +110456,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection66>
 
-<p class=3DNormal32><a
+<a id=3D"c33"></a><p class=3DNormal32><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F5B1-=
 2NSF-C3B3-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -117122,7 +117189,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection68>
 
-<p class=3DNormal33><a
+<a id=3D"c34"></a><p class=3DNormal33><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWS-5ND1-=
 2NSD-R3SK-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -120021,7 +120088,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection70>
 
-<p class=3DNormal34><a
+<a id=3D"c35"></a><p class=3DNormal34><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XX3-CN71-=
 2NSD-M429-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -125259,7 +125326,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection72>
 
-<p class=3DNormal35><a
+<a id=3D"c36"></a><p class=3DNormal35><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5NF6-4CS1-=
 DXC8-72ND-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -129935,7 +130002,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection74>
 
-<p class=3DNormal36><a
+<a id=3D"c37"></a><p class=3DNormal36><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW7-DC11-=
 2NSF-C3H9-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -131893,7 +131960,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection76>
 
-<p class=3DNormal37><a
+<a id=3D"c38"></a><p class=3DNormal37><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:6FGF-RNG3-=
 RRS1-61SG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -139865,7 +139932,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection78>
 
-<p class=3DNormal38><a
+<a id=3D"c39"></a><p class=3DNormal38><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5168-X661-=
 DXC8-71BC-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -141875,7 +141942,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection80>
 
-<p class=3DNormal39><a
+<a id=3D"c40"></a><p class=3DNormal39><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:529M-H191-=
 DXC7-K04N-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -146326,7 +146393,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection82>
 
-<p class=3DNormal40><a
+<a id=3D"c41"></a><p class=3DNormal40><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:67Y7-S1T3-=
 CGX8-02P6-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -150139,7 +150206,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection84>
 
-<p class=3DNormal41><a
+<a id=3D"c42"></a><p class=3DNormal41><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5X6S-KDH1-=
 DXC8-70Y7-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -153892,7 +153959,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection86>
 
-<p class=3DNormal42><a
+<a id=3D"c43"></a><p class=3DNormal42><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5590-H3J1-=
 DXC8-7529-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -158955,7 +159022,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection88>
 
-<p class=3DNormal43><a
+<a id=3D"c44"></a><p class=3DNormal43><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:55R8-M6T1-=
 DXC7-K3KJ-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -160534,7 +160601,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection90>
 
-<p class=3DNormal44><a
+<a id=3D"c45"></a><p class=3DNormal44><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-PCS1-=
 2NSD-R0HD-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -161897,7 +161964,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection92>
 
-<p class=3DNormal45><a
+<a id=3D"c46"></a><p class=3DNormal45><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:583D-N951-=
 DXC8-7372-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -167388,7 +167455,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection94>
 
-<p class=3DNormal46><a
+<a id=3D"c47"></a><p class=3DNormal46><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:8012-P1K0-=
 Y87H-31BB-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -170021,7 +170088,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection96>
 
-<p class=3DNormal47><a
+<a id=3D"c48"></a><p class=3DNormal47><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:51V3-N751-=
 J9X5-W202-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -173007,7 +173074,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection98>
 
-<p class=3DNormal48><a
+<a id=3D"c49"></a><p class=3DNormal48><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:51R6-J9R1-=
 DXC7-F01M-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -207261,7 +207328,6 @@ Nichols dated 7/23/10.)</span></p>
 
 
 </div>
-<div class=3D"sep" id=3D"set2"><span>Set 2</span></div>
 <div id=3D"s2" class=3D"set">
 
 
@@ -207276,7 +207342,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection2>
 
-<p class=3DNormal0><a
+<a id=3D"c50"></a><p class=3DNormal0><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:52FM-JFW1-=
 DXC7-G37J-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -214210,7 +214276,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection4>
 
-<p class=3DNormal1><a
+<a id=3D"c51"></a><p class=3DNormal1><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:52HK-GX61-=
 J9X6-H47Y-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -217430,7 +217496,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection6>
 
-<p class=3DNormal2><a
+<a id=3D"c52"></a><p class=3DNormal2><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5GHK-99T1-=
 J9X6-H2T3-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -218806,7 +218872,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection8>
 
-<p class=3DNormal3><a
+<a id=3D"c53"></a><p class=3DNormal3><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5GHK-8R01-=
 DXC8-729M-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -223825,7 +223891,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection10>
 
-<p class=3DNormal4><a
+<a id=3D"c54"></a><p class=3DNormal4><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5JMR-P2H1-=
 DXC8-7063-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -224956,7 +225022,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection12>
 
-<p class=3DNormal5><a
+<a id=3D"c55"></a><p class=3DNormal5><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XW4-F4S1-=
 2NSF-C4YG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -226589,7 +226655,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection14>
 
-<p class=3DNormal6><a
+<a id=3D"c56"></a><p class=3DNormal6><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5KHC-SVG1-=
 J9X6-H45S-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -231681,7 +231747,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection16>
 
-<p class=3DNormal7><a
+<a id=3D"c57"></a><p class=3DNormal7><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:551H-8DB1-=
 J9X6-H13F-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -235521,7 +235587,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection18>
 
-<p class=3DNormal8><a
+<a id=3D"c58"></a><p class=3DNormal8><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5MC2-0D21-=
 J9X6-H22T-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -237509,7 +237575,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection20>
 
-<p class=3DNormal9><a
+<a id=3D"c59"></a><p class=3DNormal9><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-03D1-=
 2NSF-C2PN-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -240294,7 +240360,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection22>
 
-<p class=3DNormal10><a
+<a id=3D"c60"></a><p class=3DNormal10><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5P0J-SBV1-=
 J9X5-W0TJ-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -242430,7 +242496,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection24>
 
-<p class=3DNormal11><a
+<a id=3D"c61"></a><p class=3DNormal11><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5PS6-V5G1-=
 J9X6-H4YW-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -244856,7 +244922,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection26>
 
-<p class=3DNormal12><a
+<a id=3D"c62"></a><p class=3DNormal12><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-P941-=
 2NSD-K49X-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -248345,7 +248411,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection28>
 
-<p class=3DNormal13><a
+<a id=3D"c63"></a><p class=3DNormal13><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:69YM-FRR3-=
 RRK8-84MC-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -252183,7 +252249,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection30>
 
-<p class=3DNormal14><a
+<a id=3D"c64"></a><p class=3DNormal14><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5RSB-YR61-=
 J9X6-H0DP-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -253920,7 +253986,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection32>
 
-<p class=3DNormal15><a
+<a id=3D"c65"></a><p class=3DNormal15><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5S7S-Y7M1-=
 DXC8-7101-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -255528,7 +255594,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection34>
 
-<p class=3DNormal16><a
+<a id=3D"c66"></a><p class=3DNormal16><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:67XC-WSM3-=
 CGX8-03NV-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -259607,7 +259673,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection36>
 
-<p class=3DNormal17><a
+<a id=3D"c67"></a><p class=3DNormal17><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5T1M-01B1-=
 DXC8-70S0-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -263406,7 +263472,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection38>
 
-<p class=3DNormal18><a
+<a id=3D"c68"></a><p class=3DNormal18><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5T4M-C131-=
 J9X6-H4HG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -266485,7 +266551,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection40>
 
-<p class=3DNormal19><a
+<a id=3D"c69"></a><p class=3DNormal19><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWY-82F1-=
 2NSD-N4J7-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -268310,7 +268376,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection42>
 
-<p class=3DNormal20><a
+<a id=3D"c70"></a><p class=3DNormal20><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:6BFC-DB23-=
 RRJJ-F0XG-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -269927,7 +269993,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection44>
 
-<p class=3DNormal21><a
+<a id=3D"c71"></a><p class=3DNormal21><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5X9S-MR01-=
 J9X6-H35F-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -273231,7 +273297,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection46>
 
-<p class=3DNormal22><a
+<a id=3D"c72"></a><p class=3DNormal22><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5XMY-VS01-=
 DXC8-73TH-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -276285,7 +276351,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection48>
 
-<p class=3DNormal23><a
+<a id=3D"c73"></a><p class=3DNormal23><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5X46-GX21-=
 DXC7-F197-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -278750,7 +278816,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection50>
 
-<p class=3DNormal24><a
+<a id=3D"c74"></a><p class=3DNormal24><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-YTM1-=
 2NSD-K077-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -280607,7 +280673,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection52>
 
-<p class=3DNormal25><a
+<a id=3D"c75"></a><p class=3DNormal25><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWN-88R1-=
 2NSD-R32C-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -284667,7 +284733,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection54>
 
-<p class=3DNormal26><a
+<a id=3D"c76"></a><p class=3DNormal26><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XWP-B7W1-=
 2NSD-R1FS-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -307983,7 +308049,6 @@ n></p>
 
 
 </div>
-<div class=3D"sep" id=3D"set3"><span>Set 3</span></div>
 <div id=3D"s3" class=3D"set">
 
 
@@ -307998,7 +308063,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection2>
 
-<p class=3DNormal0><a
+<a id=3D"c77"></a><p class=3DNormal0><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:7XX0-H2R1-=
 2NSD-R2TW-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -308862,7 +308927,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection4>
 
-<p class=3DNormal1><a
+<a id=3D"c78"></a><p class=3DNormal1><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5V2D-CSR1-=
 J9X5-T2HY-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -310197,7 +310262,7 @@ mso-break-type:section-break'>
 
 <div class=3DWordSection6>
 
-<p class=3DNormal2><a
+<a id=3D"c79"></a><p class=3DNormal2><a
 href=3D"https://plus.lexis.com/api/shepards?id=3Durn:contentItem:5NDH-PS61-=
 DXC7-H0RV-00000-00&amp;category=3Dinitial&amp;context=3D"><span
 style=3D'color:windowtext;text-decoration:none;text-underline:none'><img bo=
@@ -315807,4 +315872,4 @@ what we find implicit in the word &quot;ordinarily&quot; in the prior rule.=
 </div>
 </body></html>
 
---===============5828519674653369437==--
+--===============7727123995932275436==--
