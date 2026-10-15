@@ -1,7 +1,7 @@
-Content-Type: multipart/related; boundary="===============7727123995932275436=="
+Content-Type: multipart/related; boundary="===============7348641309630076514=="
 MIME-Version: 1.0
 
---===============7727123995932275436==
+--===============7348641309630076514==
 Content-Type: text/html; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: quoted-printable
@@ -21,6 +21,8 @@ nav.toc{font:15px/1.5 Georgia,serif;margin:24px 0 40px;padding-bottom:24px;=
 border-bottom:1px solid #ccc} nav.toc h2{font:bold 22px sans-serif} nav.toc=
  li{margin:2px 0}
 img{max-width:100%;height:auto}
+.set span[style*=3D"position:absolute"]{position:static!important;display:b=
+lock;margin:4px 0!important;height:auto!important}
 #s1 v\:*{behavior:url(#default#VML);}
 #s1 o\:*{behavior:url(#default#VML);}
 #s1 w\:*{behavior:url(#default#VML);}
@@ -315872,4 +315874,4 @@ what we find implicit in the word &quot;ordinarily&quot; in the prior rule.=
 </div>
 </body></html>
 
---===============7727123995932275436==--
+--===============7348641309630076514==--
